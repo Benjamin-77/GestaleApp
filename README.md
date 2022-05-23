@@ -3,11 +3,11 @@
 
 ## Membres du groupe
 
-DOEVI Damien Ulrich
-MOUTOUAMA Benjamin
-Maurel GOGOHUNGA
-Kelvine HONON DADJO
-OGAH Grâce
-Ange AZONHOU
-GBODOGBE Princelu
-MEVOGNON Samuel
+- DOEVI Damien Ulrich
+- MOUTOUAMA Benjamin 
+- Maurel GOGOHUNGA
+- Kelvine HONON DADJO
+- OGAH Grâce
+- Ange AZONHOU
+- GBODOGBE Princelu
+- MEVOGNON Samuel
