@@ -399,7 +399,7 @@ Text MakeTexte(String texte){
   return Text(texte, style: TextStyle(fontSize: 17, fontFamily: "zenk",),textAlign: TextAlign.justify,);
 }
 
-Row MakeMaterial(BuildContext context, String nom, int nombre,String image,Color couleur){
+Row MakeMaterial(BuildContext context, String nom, String nombre,String image,Color couleur){
   return Row(
     children: [
       Container(

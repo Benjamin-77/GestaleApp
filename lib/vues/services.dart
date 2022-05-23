@@ -1,13 +1,6 @@
-import 'dart:io';
-
 import 'package:flutter/material.dart';
 import 'package:flutter/painting.dart';
 import 'package:flutter_svg/flutter_svg.dart';
-import 'package:flutter/services.dart';
-import 'package:gestale_app/main.dart';
-import 'all.dart';
-import 'hospital.dart';
-import 'rh.dart';
 import 'home.dart';
 import 'package:gestale_app/components/essentials.dart';
 

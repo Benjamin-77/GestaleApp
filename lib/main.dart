@@ -4,6 +4,8 @@ import 'package:gestale_app/vues/initial.dart';
 import 'dart:async';
 import 'vues/home.dart';
 
+// @dart=2.9
+
 void main() {
   runApp(const GestaleApp());
 }

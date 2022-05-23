@@ -4,14 +4,8 @@ import 'dart:ui';
 import 'package:carousel_pro/carousel_pro.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/painting.dart';
-import 'package:flutter_svg/flutter_svg.dart';
 import 'package:flutter/services.dart';
-import 'package:gestale_app/main.dart';
 import 'package:gestale_app/vues/services.dart';
-import 'all.dart';
-import 'hospital.dart';
-import 'materials.dart';
-import 'rh.dart';
 import 'package:gestale_app/components/essentials.dart';
 
 class Home extends StatelessWidget {
